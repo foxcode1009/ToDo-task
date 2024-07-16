@@ -1,1 +1,1 @@
-![imagen del programa](assest/img_preview)
+![imagen del programa](assets/img_preview.png)
